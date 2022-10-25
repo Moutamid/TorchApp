@@ -12,7 +12,6 @@ import android.widget.Toast;
 import com.anjlab.android.iab.v3.BillingProcessor;
 import com.anjlab.android.iab.v3.PurchaseInfo;
 
-
 public class DonateActivity extends AppCompatActivity implements BillingProcessor.IBillingHandler {
 
     //    BillingClient billingClient;
